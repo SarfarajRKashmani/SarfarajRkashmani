@@ -1,3 +1,4 @@
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
 # 💫 About Me:
 🔭 I’m currently working on Java Script<br>👯 I’m looking to collaborate on Git Hub<br>🤝 I’m looking for help with a Developer<br>🌱 I’m currently Learning Web Development<br>💬 Ask me about<br>⚡ Fun fact
 
